@@ -1,0 +1,13 @@
+#img1{
+    filter: blur(10px);
+}
+
+
+#img2{
+    filter:  brightness(22%) contrast(90%)
+}
+
+
+#img3{
+    filter: invert(1)
+}
